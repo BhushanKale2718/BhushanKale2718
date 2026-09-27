@@ -16,7 +16,7 @@
 ## Currently Learning
 - DSA
 - Web Development
-- C programming## Hi there 👋
+- C programming
 
 <!--
 **BhushanKale2718/BhushanKale2718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
